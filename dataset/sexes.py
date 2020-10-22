@@ -28,6 +28,3 @@ print("Number of women who survived " + str(number_women-number_women_deads))
 
 print("Percentage of men who died: " + str(math.floor(((number_men_deads / number_men) * 100))) + "%")
 print("Percentage of women who died: " + str(math.floor(((number_women_deads / number_women) * 100))) + "%")
-
-
-
