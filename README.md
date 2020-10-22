@@ -1,1 +1,1 @@
-Exercises from the assignment "machine learning and AI"
+Python exercises from the assignment "machine learning and AI"
