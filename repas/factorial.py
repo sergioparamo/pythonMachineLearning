@@ -12,7 +12,7 @@ current = 2
 for current in range(2, n + 1):
     fact = fact * current
 
-print("bucle for xD: ")
+print("bucle for: ")
 print(fact)
 
 fact = 1
